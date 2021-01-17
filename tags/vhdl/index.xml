@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vhdl on Awesome resources for Hardware Description</title>
+    <link>https://hdl.github.io/awesome/tags/vhdl/</link>
+    <description>Recent content in vhdl on Awesome resources for Hardware Description</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hdl.github.io/awesome/tags/vhdl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pyVHDLParser</title>
+      <link>https://hdl.github.io/awesome/items/pyvhdlparser/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyvhdlparser/</guid>
+      <description>Main Goals  Parsing  Slice an input document into tokens and text blocks which are categorized in groups for fast indexing. reserve case, whitespace and comments. Recover on parsing errors Good error reporting / throw exceptions   Fast Processing  Multi-pass parsing and analysis Delay analysis if not needed for current pass Link tokens and blocks for fast-forward scanning (triple helix)   Generic VHDL Language Model  Assemble a sourcecode document-object-model (Code-DOM) Provide an API for code introspection Provide an API for code modification / transformation    Use Cases  Generate documentation by using the fast-forward scanner Generate a document/language model by using the grouped text-block scanner Extract compile orders and other dependency graphs Generate highlighted syntax  </description>
+    </item>
+    
+    <item>
+      <title>VUnit</title>
+      <link>https://hdl.github.io/awesome/items/vunit/</link>
+      <pubDate>Tue, 25 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vunit/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;VUnit is an open source unit testing framework for VHDL/SystemVerilog [&amp;hellip;] It features the functionality needed to realize continuous and automated testing of your HDL code. VUnit doesn’t replace but rather complements traditional testing methodologies by supporting a “test early and often” approach through automation.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coroutine Co-simulation Test Bench (cocotb)</title>
+      <link>https://hdl.github.io/awesome/items/cocotb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/cocotb/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;cocotb is a coroutine based cosimulation library for writing VHDL and Verilog testbenches in Python.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>eda-twiki</title>
+      <link>https://hdl.github.io/awesome/items/eda-twiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/eda-twiki/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>fphdl</title>
+      <link>https://hdl.github.io/awesome/items/fphdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/fphdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GHDL</title>
+      <link>https://hdl.github.io/awesome/items/ghdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ghdl-yosys-plugin</title>
+      <link>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/ghdl-yosys-plugin/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>hdlConvertor</title>
+      <link>https://hdl.github.io/awesome/items/hdlconvertor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/hdlconvertor/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NVC</title>
+      <link>https://hdl.github.io/awesome/items/nvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/nvc/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Source VHDL Verification Methodology (OSVVM)</title>
+      <link>https://hdl.github.io/awesome/items/osvvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/osvvm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Open Source VHDL Verification Methodology (OSVVM) provides an ASIC level VHDL verification methodology that is simple enough to use even on small FPGA projects. OSVVM offers the same capabilities as those based on other verification languages:&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pile of Cores Library (PoC)</title>
+      <link>https://hdl.github.io/awesome/items/poc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/poc/</guid>
+      <description>PoC - “Pile of Cores” provides implementations for often required hardware functions such as Arithmetic Units, Caches, Clock-Domain-Crossing Circuits, FIFOs, RAM wrappers, and I/O Controllers. The hardware modules are typically provided as VHDL or Verilog source code, so it can be easily re-used in a variety of hardware designs.
+All hardware modules use a common set of VHDL packages to share new VHDL types, sub-programs and constants. Additionally, a set of simulation helper packages eases the writing of testbenches.</description>
+    </item>
+    
+    <item>
+      <title>pyVHDLModel</title>
+      <link>https://hdl.github.io/awesome/items/pyvhdlmodel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/pyvhdlmodel/</guid>
+      <description>Main Goals This Python package provides a unified abstract language model for VHDL. Projects reading from source files can derive own classes and implement additional logic to create a concrete language model for their tools.
+Projects consuming pre-processed VHDL data (parsed, analyzed or elaborated) can build higher level features and services on such a model, while supporting multiple frontends.
+Use Cases  High-level API for GHDL&#39;s libghdl offered as Python package pyGHDL.</description>
+    </item>
+    
+    <item>
+      <title>rust_hdl</title>
+      <link>https://hdl.github.io/awesome/items/rust_hdl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/rust_hdl/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>tsfpga</title>
+      <link>https://hdl.github.io/awesome/items/tsfpga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/tsfpga/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Universal VHDL Verification Methodology (UVVM)</title>
+      <link>https://hdl.github.io/awesome/items/uvvm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/uvvm/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Open Source VHDL Verification Library and Methodology - for very efficient VHDL verification of FPGA and ASIC - resulting also in a significant quality improvement&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VASG Packages</title>
+      <link>https://hdl.github.io/awesome/items/vasg_packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vasg_packages/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>VHDL-extras</title>
+      <link>https://hdl.github.io/awesome/items/vhdl-extras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hdl.github.io/awesome/items/vhdl-extras/</guid>
+      <description>&lt;p&gt;This is a long description&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
